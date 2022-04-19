@@ -1,0 +1,661 @@
+{
+  "products": [
+    {
+      "productSKU": "441406001",
+      "productlistItem": {
+        "wishlistHeart": {
+          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
+          "wishlistHeartParameters": [
+            { "name": "ProductSKU", "value": "441406" },
+            { "name": "WishlistItem", "value": "441406295f1bb3" },
+            {
+              "name": "SelectedVariationAttributes",
+              "value": "Color::black-black-white"
+            },
+            { "name": "VariationProductSKU", "value": "441406001" }
+          ]
+        },
+        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::441406",
+        "customClasses": "",
+        "link": {
+          "title": "Nike Rucksack Hayward 2.0 Daypack black-black-white",
+          "href": "https://www.sportscheck.com/nike/nike-hayward-20-daypack-p441406295f1bb3/color-black-black-white/"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411903?$productimage_square$&fmt=auto&w=236",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411903?$productimage_square$&fmt=auto&w=236"
+              }
+            }
+          ]
+        },
+        "additionalSizes": false,
+        "brand": "Nike",
+        "name": "Rucksack Hayward 2.0",
+        "category": "Daypack",
+        "priceCrossed": {
+          "price": {
+            "classes": "price price--crossed",
+            "text": "39,95",
+            "currency": "€"
+          }
+        },
+        "priceReduced": {
+          "price": {
+            "classes": "price price--reduced",
+            "text": "31,95",
+            "currency": "€"
+          }
+        },
+        "priceSavings": {
+          "accentuation": {
+            "classes": "accentuation accentuation__sale accentuation__sale--small",
+            "text": "-20%"
+          }
+        }
+      }
+    },
+    {
+      "productSKU": "497108001",
+      "productlistItem": {
+        "wishlistHeart": {
+          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
+          "wishlistHeartParameters": [
+            { "name": "ProductSKU", "value": "497108" },
+            { "name": "WishlistItem", "value": "497108b778ab60" },
+            {
+              "name": "SelectedVariationAttributes",
+              "value": "Color::iron grey-iron grey-iron grey"
+            },
+            { "name": "VariationProductSKU", "value": "497108001" }
+          ]
+        },
+        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497108",
+        "customClasses": "",
+        "link": {
+          "title": "Nike Rucksack NSW Heritage Eugene Daypack iron grey-iron grey-iron grey",
+          "href": "https://www.sportscheck.com/nike/nike-nsw-heritage-eugene-daypack-p497108b778ab60/color-iron-grey-iron-grey-iron-grey/"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013116614?$productimage_square$&fmt=auto&w=236",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013116614?$productimage_square$&fmt=auto&w=236"
+              }
+            }
+          ]
+        },
+        "additionalSizes": false,
+        "brand": "Nike",
+        "name": "Rucksack NSW Heritage Eugene",
+        "category": "Daypack",
+        "price": {
+          "price": { "classes": "price", "text": "39,95", "currency": "€" }
+        }
+      }
+    },
+    {
+      "productSKU": "497071006",
+      "productlistItem": {
+        "wishlistHeart": {
+          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
+          "wishlistHeartParameters": [
+            { "name": "ProductSKU", "value": "497071" },
+            { "name": "WishlistItem", "value": "497071b03edda9" },
+            {
+              "name": "SelectedVariationAttributes",
+              "value": "Color::dk grey heather-matte silver-white"
+            },
+            { "name": "VariationProductSKU", "value": "497071006" }
+          ]
+        },
+        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497071",
+        "customClasses": "",
+        "link": {
+          "title": "Nike NSW Club Sweathose Herren dk grey heather-matte silver-white",
+          "href": "https://www.sportscheck.com/nike/nike-nsw-club-sweathose-herren-p497071b03edda9/color-dk-grey-heather-matte-silver-white/"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013362025?$productimage_square$&fmt=auto&w=236",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013362025?$productimage_square$&fmt=auto&w=236"
+              }
+            }
+          ]
+        },
+        "additionalSizes": true,
+        "brand": "Nike",
+        "name": "NSW Club",
+        "category": "Sweathose - Herren",
+        "priceCrossed": {
+          "price": {
+            "classes": "price price--crossed",
+            "text": "54,95",
+            "currency": "€"
+          }
+        },
+        "priceReduced": {
+          "price": {
+            "classes": "price price--reduced",
+            "text": "41,95",
+            "currency": "€"
+          }
+        },
+        "priceSavings": {
+          "accentuation": {
+            "classes": "accentuation accentuation__sale accentuation__sale--small",
+            "text": "-24%"
+          }
+        }
+      }
+    },
+    {
+      "productSKU": "528988001",
+      "productlistItem": {
+        "wishlistHeart": {
+          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
+          "wishlistHeartParameters": [
+            { "name": "ProductSKU", "value": "528988" },
+            { "name": "WishlistItem", "value": "528988295f1bb3" },
+            {
+              "name": "SelectedVariationAttributes",
+              "value": "Color::black-black-white"
+            },
+            { "name": "VariationProductSKU", "value": "528988001" }
+          ]
+        },
+        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::528988",
+        "customClasses": "",
+        "link": {
+          "title": "Nike NSW Spe Sherpa GX Fleecehoodie Herren black-black-white",
+          "href": "https://www.sportscheck.com/nike/nike-nsw-spe-sherpa-gx-fleecehoodie-herren-p528988295f1bb3/color-black-black-white/"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013448982?$productimage_square$&fmt=auto&w=236",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013448982?$productimage_square$&fmt=auto&w=236"
+              }
+            }
+          ]
+        },
+        "additionalSizes": true,
+        "brand": "Nike",
+        "name": "NSW Spe Sherpa GX",
+        "category": "Fleecehoodie - Herren",
+        "price": {
+          "price": { "classes": "price", "text": "89,95", "currency": "€" },
+          "priceSavings": {
+            "accentuation": {
+              "classes": "accentuation accentuation__sale accentuation__sale--small",
+              "text": "Neu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "productSKU": "497059001",
+      "productlistItem": {
+        "wishlistHeart": {
+          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
+          "wishlistHeartParameters": [
+            { "name": "ProductSKU", "value": "497059" },
+            { "name": "WishlistItem", "value": "497059d94cfefd" },
+            {
+              "name": "SelectedVariationAttributes",
+              "value": "Color::black-heather-black"
+            },
+            { "name": "VariationProductSKU", "value": "497059001" }
+          ]
+        },
+        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497059",
+        "customClasses": "",
+        "link": {
+          "title": "Nike NSW T-Shirt Herren black-heather-black",
+          "href": "https://www.sportscheck.com/nike/nike-nsw-t-shirt-herren-p497059d94cfefd/color-black-heather-black/"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013193509?$productimage_square$&fmt=auto&w=236",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013193509?$productimage_square$&fmt=auto&w=236"
+              }
+            }
+          ]
+        },
+        "additionalSizes": true,
+        "brand": "Nike",
+        "name": "NSW",
+        "category": "T-Shirt - Herren",
+        "price": {
+          "price": { "classes": "price", "text": "24,95", "currency": "€" }
+        }
+      }
+    },
+    {
+      "productSKU": "446248002",
+      "productlistItem": {
+        "wishlistHeart": {
+          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
+          "wishlistHeartParameters": [
+            { "name": "ProductSKU", "value": "446248" },
+            { "name": "WishlistItem", "value": "44624834e9423b" },
+            {
+              "name": "SelectedVariationAttributes",
+              "value": "Color::cargo khaki-cargo khaki-iridescent"
+            },
+            { "name": "VariationProductSKU", "value": "446248002" }
+          ]
+        },
+        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::446248",
+        "customClasses": "",
+        "link": {
+          "title": "Nike Rucksack Tech Daypack cargo khaki-cargo khaki-iridescent",
+          "href": "https://www.sportscheck.com/nike/nike-tech-daypack-p44624834e9423b/color-cargo-khaki-cargo-khaki-iridescent/"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012341299?$productimage_square$&fmt=auto&w=236",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012341299?$productimage_square$&fmt=auto&w=236"
+              }
+            }
+          ]
+        },
+        "additionalSizes": false,
+        "brand": "Nike",
+        "name": "Rucksack Tech",
+        "category": "Daypack",
+        "price": {
+          "price": { "classes": "price", "text": "27,95", "currency": "€" }
+        }
+      }
+    },
+    {
+      "productSKU": "497073002",
+      "productlistItem": {
+        "wishlistHeart": {
+          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
+          "wishlistHeartParameters": [
+            { "name": "ProductSKU", "value": "497073" },
+            { "name": "WishlistItem", "value": "49707377361882" },
+            {
+              "name": "SelectedVariationAttributes",
+              "value": "Color::dark marina blue-white"
+            },
+            { "name": "VariationProductSKU", "value": "497073002" }
+          ]
+        },
+        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497073",
+        "customClasses": "",
+        "link": {
+          "title": "Nike NSW Club T-Shirt Herren dark marina blue-white",
+          "href": "https://www.sportscheck.com/nike/nike-nsw-club-t-shirt-herren-p49707377361882/color-dark-marina-blue-white/"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013188259?$productimage_square$&fmt=auto&w=236",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013188259?$productimage_square$&fmt=auto&w=236"
+              }
+            }
+          ]
+        },
+        "additionalSizes": true,
+        "brand": "Nike",
+        "name": "NSW Club",
+        "category": "T-Shirt - Herren",
+        "price": {
+          "price": { "classes": "price", "text": "19,95", "currency": "€" }
+        }
+      }
+    },
+    {
+      "productSKU": "497108002",
+      "productlistItem": {
+        "wishlistHeart": {
+          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
+          "wishlistHeartParameters": [
+            { "name": "ProductSKU", "value": "497108" },
+            { "name": "WishlistItem", "value": "497108ae9a3f1e" },
+            {
+              "name": "SelectedVariationAttributes",
+              "value": "Color::mystic navy-mystic navy-midnight navy"
+            },
+            { "name": "VariationProductSKU", "value": "497108002" }
+          ]
+        },
+        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497108",
+        "customClasses": "",
+        "link": {
+          "title": "Nike Rucksack NSW Heritage Eugene Daypack mystic navy-mystic navy-midnight navy",
+          "href": "https://www.sportscheck.com/nike/nike-nsw-heritage-eugene-daypack-p497108ae9a3f1e/color-mystic-navy-mystic-navy-midnight-navy/"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013116613?$productimage_square$&fmt=auto&w=236",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013116613?$productimage_square$&fmt=auto&w=236"
+              }
+            }
+          ]
+        },
+        "additionalSizes": false,
+        "brand": "Nike",
+        "name": "Rucksack NSW Heritage Eugene",
+        "category": "Daypack",
+        "price": {
+          "price": { "classes": "price", "text": "39,95", "currency": "€" }
+        }
+      }
+    },
+    {
+      "productSKU": "497062001",
+      "productlistItem": {
+        "wishlistHeart": {
+          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
+          "wishlistHeartParameters": [
+            { "name": "ProductSKU", "value": "497062" },
+            { "name": "WishlistItem", "value": "4970623be9c91c" },
+            {
+              "name": "SelectedVariationAttributes",
+              "value": "Color::black"
+            },
+            { "name": "VariationProductSKU", "value": "497062001" }
+          ]
+        },
+        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497062",
+        "customClasses": "",
+        "link": {
+          "title": "Nike NSW League T-Shirt Herren black",
+          "href": "https://www.sportscheck.com/nike/nike-nsw-league-t-shirt-herren-p4970623be9c91c/color-black/"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013381312?$productimage_square$&fmt=auto&w=236",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013381312?$productimage_square$&fmt=auto&w=236"
+              }
+            }
+          ]
+        },
+        "additionalSizes": true,
+        "brand": "Nike",
+        "name": "NSW League",
+        "category": "T-Shirt - Herren",
+        "price": {
+          "price": { "classes": "price", "text": "24,95", "currency": "€" },
+          "priceSavings": {
+            "accentuation": {
+              "classes": "accentuation accentuation__sale accentuation__sale--small",
+              "text": "Neu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "productSKU": "506356001",
+      "productlistItem": {
+        "wishlistHeart": {
+          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
+          "wishlistHeartParameters": [
+            { "name": "ProductSKU", "value": "506356" },
+            { "name": "WishlistItem", "value": "5063566afea2c5" },
+            {
+              "name": "SelectedVariationAttributes",
+              "value": "Color::rough green-sequoia-sail"
+            },
+            { "name": "VariationProductSKU", "value": "506356001" }
+          ]
+        },
+        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::506356",
+        "customClasses": "",
+        "link": {
+          "title": "Nike NSW Steppmantel Herren rough green-sequoia-sail",
+          "href": "https://www.sportscheck.com/nike/nike-nsw-steppmantel-herren-p5063566afea2c5/color-rough-green-sequoia-sail/"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012976683?$productimage_square$&fmt=auto&w=236",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012976683?$productimage_square$&fmt=auto&w=236"
+              }
+            }
+          ]
+        },
+        "additionalSizes": true,
+        "brand": "Nike",
+        "name": "NSW",
+        "category": "Steppmantel - Herren",
+        "priceCrossed": {
+          "price": {
+            "classes": "price price--crossed",
+            "text": "199,95",
+            "currency": "€"
+          }
+        },
+        "priceReduced": {
+          "price": {
+            "classes": "price price--reduced",
+            "text": "119,95",
+            "currency": "€"
+          }
+        },
+        "priceSavings": {
+          "accentuation": {
+            "classes": "accentuation accentuation__sale accentuation__sale--small",
+            "text": "-40%"
+          }
+        }
+      }
+    },
+    {
+      "productSKU": "497110001",
+      "productlistItem": {
+        "wishlistHeart": {
+          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
+          "wishlistHeartParameters": [
+            { "name": "ProductSKU", "value": "497110" },
+            { "name": "WishlistItem", "value": "497110f0a3be90" },
+            {
+              "name": "SelectedVariationAttributes",
+              "value": "Color::white"
+            },
+            { "name": "VariationProductSKU", "value": "497110001" }
+          ]
+        },
+        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497110",
+        "customClasses": "",
+        "link": {
+          "title": "Nike Everyday Essential Boxer Herren white",
+          "href": "https://www.sportscheck.com/nike/nike-everyday-essential-boxer-herren-p497110f0a3be90/color-white/"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013354262?$productimage_square$&fmt=auto&w=236",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013354262?$productimage_square$&fmt=auto&w=236"
+              }
+            }
+          ]
+        },
+        "additionalSizes": true,
+        "brand": "Nike",
+        "name": "Everyday Essential",
+        "category": "Boxer - Herren",
+        "price": {
+          "price": { "classes": "price", "text": "31,95", "currency": "€" }
+        }
+      }
+    },
+    {
+      "productSKU": "497080006",
+      "productlistItem": {
+        "wishlistHeart": {
+          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
+          "wishlistHeartParameters": [
+            { "name": "ProductSKU", "value": "497080" },
+            { "name": "WishlistItem", "value": "497080f0a3be90" },
+            {
+              "name": "SelectedVariationAttributes",
+              "value": "Color::white"
+            },
+            { "name": "VariationProductSKU", "value": "497080006" }
+          ]
+        },
+        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497080",
+        "customClasses": "",
+        "link": {
+          "title": "Nike NSW Air 1 T-Shirt Herren white",
+          "href": "https://www.sportscheck.com/nike/nike-nsw-air-1-t-shirt-herren-p497080f0a3be90/color-white/"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013222932?$productimage_square$&fmt=auto&w=236",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013222932?$productimage_square$&fmt=auto&w=236"
+              }
+            }
+          ]
+        },
+        "additionalSizes": true,
+        "brand": "Nike",
+        "name": "NSW Air 1",
+        "category": "T-Shirt - Herren",
+        "price": {
+          "price": { "classes": "price", "text": "29,95", "currency": "€" }
+        }
+      }
+    },
+    {
+        "productSKU": "441406001",
+        "productlist-item": {
+          "wishlistHeart": {
+            "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
+            "wishlistHeartParameters": [
+              { "name": "ProductSKU", "value": "441406" },
+              { "name": "WishlistItem", "value": "441406295f1bb3" },
+              {
+                "name": "SelectedVariationAttributes",
+                "value": "Color::black-black-white"
+              },
+              { "name": "VariationProductSKU", "value": "441406001" }
+            ]
+          },
+          "trackingId": "trc_reco::productdetailpage::das-passt-dazu::441406",
+          "customClasses": "",
+          "link": {
+            "title": "Nike Rucksack Hayward 2.0 Daypack black-black-white",
+            "href": "https://www.sportscheck.com/nike/nike-hayward-20-daypack-p441406295f1bb3/color-black-black-white/"
+          },
+          "picture": {
+            "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411903?$productimage_square$&fmt=auto&w=236",
+            "srcset": [
+              {
+                "source": {
+                  "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411903?$productimage_square$&fmt=auto&w=236"
+                }
+              }
+            ]
+          },
+          "additional-sizes": false,
+          "brand": "Nike",
+          "name": "Rucksack Hayward 2.0",
+          "category": "Daypack",
+          "price--crossed": {
+            "price": {
+              "classes": "price price--crossed",
+              "text": "39,95",
+              "currency": "€"
+            }
+          },
+          "price--reduced": {
+            "price": {
+              "classes": "price price--reduced",
+              "text": "31,95",
+              "currency": "€"
+            }
+          },
+          "price--savings": {
+            "accentuation": {
+              "classes": "accentuation accentuation__sale accentuation__sale--small",
+              "text": "-20%"
+            }
+          }
+        }
+      },
+      {
+        "productSKU": "441406001",
+        "productlist-item": {
+          "wishlistHeart": {
+            "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
+            "wishlistHeartParameters": [
+              { "name": "ProductSKU", "value": "441406" },
+              { "name": "WishlistItem", "value": "441406295f1bb3" },
+              {
+                "name": "SelectedVariationAttributes",
+                "value": "Color::black-black-white"
+              },
+              { "name": "VariationProductSKU", "value": "441406001" }
+            ]
+          },
+          "trackingId": "trc_reco::productdetailpage::das-passt-dazu::441406",
+          "customClasses": "",
+          "link": {
+            "title": "Nike Rucksack Hayward 2.0 Daypack black-black-white",
+            "href": "https://www.sportscheck.com/nike/nike-hayward-20-daypack-p441406295f1bb3/color-black-black-white/"
+          },
+          "picture": {
+            "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411903?$productimage_square$&fmt=auto&w=236",
+            "srcset": [
+              {
+                "source": {
+                  "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411903?$productimage_square$&fmt=auto&w=236"
+                }
+              }
+            ]
+          },
+          "additional-sizes": false,
+          "brand": "Nike",
+          "name": "Rucksack Hayward 2.0",
+          "category": "Daypack",
+          "price--crossed": {
+            "price": {
+              "classes": "price price--crossed",
+              "text": "39,95",
+              "currency": "€"
+            }
+          },
+          "price--reduced": {
+            "price": {
+              "classes": "price price--reduced",
+              "text": "31,95",
+              "currency": "€"
+            }
+          },
+          "price--savings": {
+            "accentuation": {
+              "classes": "accentuation accentuation__sale accentuation__sale--small",
+              "text": "-20%"
+            }
+          }
+        }
+      }
+  ]
+}
