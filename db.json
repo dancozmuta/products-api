@@ -545,7 +545,7 @@
     },
     {
         "productSKU": "441406101",
-        "productlist-item": {
+        "productlistItem": {
           "wishlistHeart": {
             "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
             "wishlistHeartParameters": [
@@ -602,7 +602,7 @@
       },
       {
         "productSKU": "441406201",
-        "productlist-item": {
+        "productlistItem": {
           "wishlistHeart": {
             "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
             "wishlistHeartParameters": [

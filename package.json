@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/dancozmuta/products-api#readme",
   "dependencies": {
+    "axios": "^0.26.1",
     "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.17.0",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/runtime": "^7.17.9"
   }
 }
