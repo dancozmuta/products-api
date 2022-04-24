@@ -1,6 +1,210 @@
 {
   "products": [
     {
+      "productSKU": "233547a75928dc",
+      "productlist-item": {
+        "wishlistHeartParameters": [
+          {
+            "name": "ProductSKU"
+          },
+          {
+            "name": "WishlistItem"
+          }
+        ],
+        "sponsoredInformation": "gesponsert",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "type": "Link",
+          "uri": "https://www.sportscheck.com/the-north-face/the-north-face-easy-t-shirt-herren-p233547eb934ad6/color-tnf-black/",
+          "title": "The North Face Easy T-Shirt Herren tnf medium grey heather"
+        },
+        "picture": {
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010012292930?$product_tile$",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012292957?$product_tile$",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012292957?$product_tile$&fmt=auto"
+              }
+            }
+          ]
+        },
+        "rating": {
+          "average": "0",
+          "count": "0"
+        },
+        "additional-sizes": false,
+        "brand": "The North Face",
+        "name": "Easy",
+        "category": "T-Shirt - Herren",
+        "price--crossed": {
+          "price": {
+            "classes": "price price--crossed",
+            "text": "31,95",
+            "currency": "€"
+          }
+        },
+        "price--reduced": {
+          "price": {
+            "classes": "price price--reduced",
+            "text": "25,95",
+            "currency": "€"
+          }
+        },
+        "price--savings": {
+          "accentuation": {
+            "classes": "accentuation accentuation__sale accentuation__sale--small",
+            "text": "-19%"
+          }
+        },
+        "isAvailable": true
+      }
+    },
+    {
+      "productSKU": "499864eb934ad6",
+      "productlist-item": {
+        "wishlistHeartParameters": [
+          {
+            "name": "ProductSKU"
+          },
+          {
+            "name": "WishlistItem"
+          }
+        ],
+        "sponsoredInformation": "gesponsert",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "type": "Link",
+          "uri": "https://www.sportscheck.com/the-north-face/the-north-face-dryzzle-futurelight-hardshelljacke-herren-p4998647b3c1b1d/color-aviator-navy-banff-blue/",
+          "title": "The North Face DRYZZLE FutureLight™ Hardshelljacke Herren tnf black"
+        },
+        "picture": {
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010013412013?$product_tile$",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013119322?$product_tile$",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013119322?$product_tile$&fmt=auto"
+              }
+            }
+          ]
+        },
+        "rating": {
+          "average": "0",
+          "count": "0"
+        },
+        "additional-sizes": false,
+        "brand": "The North Face",
+        "name": "DRYZZLE FutureLight™",
+        "category": "Hardshelljacke - Herren",
+        "price": {
+          "price": {
+            "classes": "price",
+            "text": "239,95",
+            "currency": "€"
+          }
+        },
+        "isAvailable": true
+      }
+    },
+    {
+      "productSKU": "5100897c57113c",
+      "productlist-item": {
+        "wishlistHeartParameters": [
+          {
+            "name": "ProductSKU"
+          },
+          {
+            "name": "WishlistItem"
+          }
+        ],
+        "sponsoredInformation": "gesponsert",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "type": "Link",
+          "uri": "https://www.sportscheck.com/soliver/soliver-badeshorts-herren-p5100897cc8fc90/color-schwarz/",
+          "title": "S.OLIVER Badeshorts Herren blau"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013177631?$product_tile$",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013177631?$product_tile$&fmt=auto"
+              }
+            }
+          ]
+        },
+        "rating": {
+          "average": "0",
+          "count": "0"
+        },
+        "additional-sizes": false,
+        "brand": "S.OLIVER",
+        "name": "",
+        "category": "Badeshorts - Herren",
+        "price": {
+          "price": {
+            "starting-at": {
+              "text": "ab",
+              "reduced": false
+            },
+            "classes": "price",
+            "text": "24,99",
+            "currency": "€"
+          }
+        },
+        "isAvailable": true
+      }
+    },
+    {
+      "productSKU": "4998514a8cdb2b",
+      "productlist-item": {
+        "wishlistHeartParameters": [
+          {
+            "name": "ProductSKU"
+          },
+          {
+            "name": "WishlistItem"
+          }
+        ],
+        "sponsoredInformation": "gesponsert",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "type": "Link",
+          "uri": "https://www.sportscheck.com/the-north-face/the-north-face-reaxion-amp-funktionsshirt-herren-p4998514a8cdb2b/color-banff-blue/",
+          "title": "The North Face REAXION AMP Funktionsshirt Herren banff blue"
+        },
+        "picture": {
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010013119406?$product_tile$",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013373459?$product_tile$",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013373459?$product_tile$&fmt=auto"
+              }
+            }
+          ]
+        },
+        "rating": {
+          "average": "0",
+          "count": "0"
+        },
+        "additional-sizes": false,
+        "brand": "The North Face",
+        "name": "REAXION AMP",
+        "category": "Funktionsshirt - Herren",
+        "price": {
+          "price": {
+            "classes": "price",
+            "text": "29,95",
+            "currency": "€"
+          }
+        },
+        "isAvailable": true
+      }
+    },
+    {
       "productSKU": "44168855ce79d3",
       "productlist-item": {
         "wishlistHeartParameters": [
@@ -61,6 +265,53 @@
       }
     },
     {
+      "productSKU": "2488973be9c91c",
+      "productlist-item": {
+        "wishlistHeartParameters": [
+          {
+            "name": "ProductSKU"
+          },
+          {
+            "name": "WishlistItem"
+          }
+        ],
+        "sponsoredInformation": "gesponsert",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "type": "Link",
+          "uri": "https://www.sportscheck.com/jack-wolfskin/jack-wolfskin-active-track-funktionsshorts-herren-p248897e3acc0e9/color-poseidon-blue/",
+          "title": "Jack Wolfskin Active Track Funktionsshorts Herren black"
+        },
+        "picture": {
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D100001001853565?$product_tile$",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D100001001853684?$product_tile$",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D100001001853684?$product_tile$&fmt=auto"
+              }
+            }
+          ]
+        },
+        "rating": {
+          "average": "0",
+          "count": "0"
+        },
+        "additional-sizes": false,
+        "brand": "Jack Wolfskin",
+        "name": "Active Track",
+        "category": "Funktionsshorts - Herren",
+        "price": {
+          "price": {
+            "classes": "price",
+            "text": "69,95",
+            "currency": "€"
+          }
+        },
+        "isAvailable": true
+      }
+    },
+    {
       "productSKU": "441691f77cb9a3",
       "productlist-item": {
         "wishlistHeartParameters": [
@@ -108,6 +359,123 @@
       }
     },
     {
+      "productSKU": "50404087cf5c98",
+      "productlist-item": {
+        "wishlistHeartParameters": [
+          {
+            "name": "ProductSKU"
+          },
+          {
+            "name": "WishlistItem"
+          }
+        ],
+        "sponsoredInformation": "gesponsert",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "type": "Link",
+          "uri": "https://www.sportscheck.com/vaude/vaude-fano-ii-funktionsshirt-herren-p504040384214c0/color-dark-sea/",
+          "title": "VAUDE Merino Fano II Funktionsshirt Herren ultramarine"
+        },
+        "picture": {
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010013452977?$product_tile$",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013441381?$product_tile$",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013441381?$product_tile$&fmt=auto"
+              }
+            }
+          ]
+        },
+        "rating": {
+          "average": "0",
+          "count": "0"
+        },
+        "additional-sizes": false,
+        "brand": "VAUDE",
+        "name": "Merino Fano II",
+        "category": "Funktionsshirt - Herren",
+        "price": {
+          "price": {
+            "classes": "price",
+            "text": "44,95",
+            "currency": "€"
+          },
+          "price--savings": {
+            "accentuation": {
+              "classes": "accentuation accentuation--small",
+              "text": "Neu"
+            }
+          }
+        },
+        "isAvailable": true
+      }
+    },
+    {
+      "productSKU": "312804f937f26e",
+      "productlist-item": {
+        "wishlistHeartParameters": [
+          {
+            "name": "ProductSKU"
+          },
+          {
+            "name": "WishlistItem"
+          }
+        ],
+        "sponsoredInformation": "gesponsert",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "type": "Link",
+          "uri": "https://www.sportscheck.com/mammut/mammut-lenni-funktionshemd-herren-p312804f937f26e/color-titanium/",
+          "title": "Mammut Lenni Funktionshemd Herren titanium"
+        },
+        "picture": {
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010011289634?$product_tile$",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010011289583?$product_tile$",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010011289583?$product_tile$&fmt=auto"
+              }
+            }
+          ]
+        },
+        "rating": {
+          "average": "0",
+          "count": "0"
+        },
+        "additional-sizes": false,
+        "brand": "Mammut",
+        "name": "Lenni",
+        "category": "Funktionshemd - Herren",
+        "price--crossed": {
+          "price": {
+            "classes": "price price--crossed",
+            "text": "59,95",
+            "currency": "€"
+          }
+        },
+        "price--reduced": {
+          "price": {
+            "starting-at": {
+              "text": "ab",
+              "reduced": true
+            },
+            "classes": "price price--reduced",
+            "text": "47,95",
+            "currency": "€"
+          }
+        },
+        "price--savings": {
+          "accentuation": {
+            "classes": "accentuation accentuation__sale accentuation__sale--small",
+            "text": "-20%"
+          }
+        },
+        "isAvailable": true
+      }
+    },
+    {
       "productSKU": "39197884c6705e",
       "productlist-item": {
         "wishlistHeartParameters": [
@@ -148,6 +516,56 @@
           "price": {
             "classes": "price",
             "text": "59,95",
+            "currency": "€"
+          }
+        },
+        "isAvailable": true
+      }
+    },
+    {
+      "productSKU": "4452727cc8fc90",
+      "productlist-item": {
+        "wishlistHeartParameters": [
+          {
+            "name": "ProductSKU"
+          },
+          {
+            "name": "WishlistItem"
+          }
+        ],
+        "sponsoredInformation": "gesponsert",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "type": "Link",
+          "uri": "https://www.sportscheck.com/bench/bench-sweathose-herren-p445272f1d9e269/color-grau-meliert/",
+          "title": "Bench Sweathose Herren schwarz"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012869516?$product_tile$",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012869516?$product_tile$&fmt=auto"
+              }
+            }
+          ]
+        },
+        "rating": {
+          "average": "0",
+          "count": "0"
+        },
+        "additional-sizes": false,
+        "brand": "Bench",
+        "name": "",
+        "category": "Sweathose - Herren",
+        "price": {
+          "price": {
+            "starting-at": {
+              "text": "ab",
+              "reduced": false
+            },
+            "classes": "price",
+            "text": "29,99",
             "currency": "€"
           }
         },
@@ -416,6 +834,66 @@
       }
     },
     {
+      "productSKU": "389189b02958a3",
+      "productlist-item": {
+        "wishlistHeartParameters": [
+          {
+            "name": "ProductSKU"
+          },
+          {
+            "name": "WishlistItem"
+          }
+        ],
+        "sponsoredInformation": "gesponsert",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "type": "Link",
+          "uri": "https://www.sportscheck.com/speedo/speedo-badeshorts-herren-p389189b02958a3/color-beautiful-blue-true-nvy-zstgrn/",
+          "title": "SPEEDO Badeshorts Herren beautiful blue-true nvy-zstgrn"
+        },
+        "picture": {
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010012045096?$product_tile$",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012045067?$product_tile$",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012045067?$product_tile$&fmt=auto"
+              }
+            }
+          ]
+        },
+        "rating": {
+          "average": "0",
+          "count": "0"
+        },
+        "additional-sizes": false,
+        "brand": "SPEEDO",
+        "name": "",
+        "category": "Badeshorts - Herren",
+        "price--crossed": {
+          "price": {
+            "classes": "price price--crossed",
+            "text": "34,95",
+            "currency": "€"
+          }
+        },
+        "price--reduced": {
+          "price": {
+            "classes": "price price--reduced",
+            "text": "27,95",
+            "currency": "€"
+          }
+        },
+        "price--savings": {
+          "accentuation": {
+            "classes": "accentuation accentuation__sale accentuation__sale--small",
+            "text": "-20%"
+          }
+        },
+        "isAvailable": true
+      }
+    },
+    {
       "productSKU": "3847726c3dfd57",
       "productlist-item": {
         "wishlistHeartParameters": [
@@ -550,6 +1028,56 @@
           "price": {
             "classes": "price",
             "text": "64,95",
+            "currency": "€"
+          }
+        },
+        "isAvailable": true
+      }
+    },
+    {
+      "productSKU": "510071eff9c291",
+      "productlist-item": {
+        "wishlistHeartParameters": [
+          {
+            "name": "ProductSKU"
+          },
+          {
+            "name": "WishlistItem"
+          }
+        ],
+        "sponsoredInformation": "gesponsert",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "type": "Link",
+          "uri": "https://www.sportscheck.com/bench/bench-badeshorts-herren-p510071eff9c291/color-gruen/",
+          "title": "Bench Badeshorts Herren grün"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013177609?$product_tile$",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013177609?$product_tile$&fmt=auto"
+              }
+            }
+          ]
+        },
+        "rating": {
+          "average": "0",
+          "count": "0"
+        },
+        "additional-sizes": false,
+        "brand": "Bench",
+        "name": "",
+        "category": "Badeshorts - Herren",
+        "price": {
+          "price": {
+            "starting-at": {
+              "text": "ab",
+              "reduced": false
+            },
+            "classes": "price",
+            "text": "29,99",
             "currency": "€"
           }
         },
