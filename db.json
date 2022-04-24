@@ -30,8 +30,8 @@
           ]
         },
         "rating": {
-          "average": "0",
-          "count": "0"
+          "average": "3.14",
+          "count": "25"
         },
         "additional-sizes": false,
         "brand": "The North Face",
@@ -90,8 +90,8 @@
           ]
         },
         "rating": {
-          "average": "0",
-          "count": "0"
+          "average": "4,456",
+          "count": "2"
         },
         "additional-sizes": false,
         "brand": "The North Face",
@@ -101,56 +101,6 @@
           "price": {
             "classes": "price",
             "text": "239,95",
-            "currency": "€"
-          }
-        },
-        "isAvailable": true
-      }
-    },
-    {
-      "productSKU": "5100897c57113c",
-      "productlist-item": {
-        "wishlistHeartParameters": [
-          {
-            "name": "ProductSKU"
-          },
-          {
-            "name": "WishlistItem"
-          }
-        ],
-        "sponsoredInformation": "gesponsert",
-        "customClasses": "productlist-item--overview",
-        "link": {
-          "type": "Link",
-          "uri": "https://www.sportscheck.com/soliver/soliver-badeshorts-herren-p5100897cc8fc90/color-schwarz/",
-          "title": "S.OLIVER Badeshorts Herren blau"
-        },
-        "picture": {
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013177631?$product_tile$",
-          "srcset": [
-            {
-              "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013177631?$product_tile$&fmt=auto"
-              }
-            }
-          ]
-        },
-        "rating": {
-          "average": "0",
-          "count": "0"
-        },
-        "additional-sizes": false,
-        "brand": "S.OLIVER",
-        "name": "",
-        "category": "Badeshorts - Herren",
-        "price": {
-          "price": {
-            "starting-at": {
-              "text": "ab",
-              "reduced": false
-            },
-            "classes": "price",
-            "text": "24,99",
             "currency": "€"
           }
         },
@@ -187,8 +137,8 @@
           ]
         },
         "rating": {
-          "average": "0",
-          "count": "0"
+          "average": "2.34",
+          "count": "15"
         },
         "additional-sizes": false,
         "brand": "The North Face",
@@ -234,8 +184,8 @@
           ]
         },
         "rating": {
-          "average": "0",
-          "count": "0"
+          "average": "1.45",
+          "count": "2"
         },
         "additional-sizes": false,
         "brand": "Mammut",
@@ -281,8 +231,8 @@
           ]
         },
         "rating": {
-          "average": "0",
-          "count": "0"
+          "average": "4.79",
+          "count": "234"
         },
         "additional-sizes": false,
         "brand": "Jack Wolfskin",
@@ -328,8 +278,8 @@
           ]
         },
         "rating": {
-          "average": "0",
-          "count": "0"
+          "average": "4.89",
+          "count": "217"
         },
         "additional-sizes": false,
         "brand": "Falke",
@@ -428,8 +378,8 @@
           ]
         },
         "rating": {
-          "average": "0",
-          "count": "0"
+          "average": "3.93",
+          "count": "23"
         },
         "additional-sizes": false,
         "brand": "Mammut",
@@ -542,8 +492,8 @@
           ]
         },
         "rating": {
-          "average": "0",
-          "count": "0"
+          "average": "4.56",
+          "count": "433"
         },
         "additional-sizes": false,
         "brand": "The North Face",
@@ -602,8 +552,8 @@
           ]
         },
         "rating": {
-          "average": "0",
-          "count": "0"
+          "average": "2.34",
+          "count": "45"
         },
         "additional-sizes": false,
         "brand": "Jack Wolfskin",
@@ -649,8 +599,8 @@
           ]
         },
         "rating": {
-          "average": "0",
-          "count": "0"
+          "average": "4.11",
+          "count": "12"
         },
         "additional-sizes": false,
         "brand": "Under Armour",
@@ -756,8 +706,8 @@
           ]
         },
         "rating": {
-          "average": "0",
-          "count": "0"
+          "average": "3.67",
+          "count": "554"
         },
         "additional-sizes": false,
         "brand": "S.OLIVER",
@@ -807,8 +757,8 @@
           ]
         },
         "rating": {
-          "average": "0",
-          "count": "0"
+          "average": "4.11",
+          "count": "56"
         },
         "additional-sizes": false,
         "brand": "SPEEDO",
