@@ -205,7 +205,7 @@
       }
     },
     {
-      "productSKU": "44168855ce79d3",
+      "productSKU": "474173ecf81f87",
       "productlist-item": {
         "wishlistHeartParameters": [
           {
@@ -219,46 +219,33 @@
         "customClasses": "productlist-item--overview",
         "link": {
           "type": "Link",
-          "uri": "https://www.sportscheck.com/adidas/adidas-advantage-sneaker-p44168855ce79d3/color-ftwr-white-green/",
-          "title": "adidas Advantage Sneaker ftwr white-green"
+          "uri": "https://www.sportscheck.com/mammut/mammut-alnasca-t-shirt-herren-p474173ecf81f87/color-mello-melange/",
+          "title": "Mammut Alnasca T-Shirt Herren mello melange"
         },
         "picture": {
-          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D100001251413812?$product_tile$",
-          "src": "https://amp.sportscheck.com/i/sportscheck/D100001251413811?$product_tile$",
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D100001250624825?$product_tile$",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D100001250624815?$product_tile$",
           "srcset": [
             {
               "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D100001251413811?$product_tile$&fmt=auto"
+                "src": "https://amp.sportscheck.com/i/sportscheck/D100001250624815?$product_tile$&fmt=auto"
               }
             }
           ]
         },
         "rating": {
-          "average": 4.4593,
-          "count": 8434
+          "average": "0",
+          "count": "0"
         },
         "additional-sizes": false,
-        "brand": "adidas",
-        "name": "Advantage",
-        "category": "Sneaker",
-        "price--crossed": {
+        "brand": "Mammut",
+        "name": "Alnasca",
+        "category": "T-Shirt - Herren",
+        "price": {
           "price": {
-            "classes": "price price--crossed",
-            "text": "69,95",
+            "classes": "price",
+            "text": "75,00",
             "currency": "€"
-          }
-        },
-        "price--reduced": {
-          "price": {
-            "classes": "price price--reduced",
-            "text": "49,95",
-            "currency": "€"
-          }
-        },
-        "price--savings": {
-          "accentuation": {
-            "classes": "accentuation accentuation__sale accentuation__sale--small",
-            "text": "-29%"
           }
         },
         "isAvailable": true
@@ -312,7 +299,7 @@
       }
     },
     {
-      "productSKU": "441691f77cb9a3",
+      "productSKU": "35351338e4aefd",
       "productlist-item": {
         "wishlistHeartParameters": [
           {
@@ -326,16 +313,16 @@
         "customClasses": "productlist-item--overview",
         "link": {
           "type": "Link",
-          "uri": "https://www.sportscheck.com/adidas/adidas-run-60s-sneaker-herren-p4416911852a66f/color-core-black-ftwr-white-core-black/",
-          "title": "adidas Run 60s Sneaker Herren crew navy-ftwr white-legend ink"
+          "uri": "https://www.sportscheck.com/falke/falke-go2-sportsocken-herren-p35351338e4aefd/color-light-grey-3400/",
+          "title": "Falke GO2 Sportsocken Herren light grey (3400)"
         },
         "picture": {
-          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010012255816?$product_tile$",
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012255703?$product_tile$",
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D10000125201343?$product_tile$",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D10000125201342?$product_tile$",
           "srcset": [
             {
               "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012255703?$product_tile$&fmt=auto"
+                "src": "https://amp.sportscheck.com/i/sportscheck/D10000125201342?$product_tile$&fmt=auto"
               }
             }
           ]
@@ -345,13 +332,13 @@
           "count": "0"
         },
         "additional-sizes": false,
-        "brand": "adidas",
-        "name": "Run 60s",
-        "category": "Sneaker - Herren",
+        "brand": "Falke",
+        "name": "GO2",
+        "category": "Sportsocken - Herren",
         "price": {
           "price": {
             "classes": "price",
-            "text": "54,95",
+            "text": "22,00",
             "currency": "€"
           }
         },
@@ -476,7 +463,7 @@
       }
     },
     {
-      "productSKU": "39197884c6705e",
+      "productSKU": "5100897c57113c",
       "productlist-item": {
         "wishlistHeartParameters": [
           {
@@ -490,32 +477,35 @@
         "customClasses": "productlist-item--overview",
         "link": {
           "type": "Link",
-          "uri": "https://www.sportscheck.com/adidas/adidas-kaptir-20-sneaker-kinder-p39197884c6705e/color-core-black-core-black-carbon/",
-          "title": "adidas KAPTIR 2.0 Sneaker Kinder core black-core black-carbon"
+          "uri": "https://www.sportscheck.com/soliver/soliver-badeshorts-herren-p5100897cc8fc90/color-schwarz/",
+          "title": "S.OLIVER Badeshorts Herren blau"
         },
         "picture": {
-          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010012130204?$product_tile$",
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012130147?$product_tile$",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013177631?$product_tile$",
           "srcset": [
             {
               "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012130147?$product_tile$&fmt=auto"
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013177631?$product_tile$&fmt=auto"
               }
             }
           ]
         },
         "rating": {
-          "average": "4.34",
-          "count": "12"
+          "average": "0",
+          "count": "0"
         },
         "additional-sizes": false,
-        "brand": "adidas",
-        "name": "KAPTIR 2.0",
-        "category": "Sneaker - Kinder",
+        "brand": "S.OLIVER",
+        "name": "",
+        "category": "Badeshorts - Herren",
         "price": {
           "price": {
+            "starting-at": {
+              "text": "ab",
+              "reduced": false
+            },
             "classes": "price",
-            "text": "59,95",
+            "text": "24,99",
             "currency": "€"
           }
         },
@@ -573,7 +563,7 @@
       }
     },
     {
-      "productSKU": "4761861a6508f1",
+      "productSKU": "267234eb934ad6",
       "productlist-item": {
         "wishlistHeartParameters": [
           {
@@ -587,53 +577,53 @@
         "customClasses": "productlist-item--overview",
         "link": {
           "type": "Link",
-          "uri": "https://www.sportscheck.com/adidas/adidas-racer-tr21-sneaker-herren-p4761861a6508f1/color-ftwr-white-carbon-core-black/",
-          "title": "adidas Racer TR21 Sneaker Herren ftwr white-carbon-core black"
+          "uri": "https://www.sportscheck.com/the-north-face/the-north-face-redbox-t-shirt-herren-p267234eb934ad6/color-tnf-black/",
+          "title": "The North Face Redbox T-Shirt Herren tnf black"
         },
         "picture": {
-          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D100001251414438?$product_tile$",
-          "src": "https://amp.sportscheck.com/i/sportscheck/D100001251414437?$product_tile$",
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D100001251411539?$product_tile$",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411538?$product_tile$",
           "srcset": [
             {
               "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D100001251414437?$product_tile$&fmt=auto"
+                "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411538?$product_tile$&fmt=auto"
               }
             }
           ]
         },
         "rating": {
-          "average": "3.456",
-          "count": "188"
+          "average": "0",
+          "count": "0"
         },
         "additional-sizes": false,
-        "brand": "adidas",
-        "name": "Racer TR21",
-        "category": "Sneaker - Herren",
+        "brand": "The North Face",
+        "name": "Redbox",
+        "category": "T-Shirt - Herren",
         "price--crossed": {
           "price": {
             "classes": "price price--crossed",
-            "text": "69,95",
+            "text": "31,95",
             "currency": "€"
           }
         },
         "price--reduced": {
           "price": {
             "classes": "price price--reduced",
-            "text": "65,95",
+            "text": "19,95",
             "currency": "€"
           }
         },
         "price--savings": {
           "accentuation": {
             "classes": "accentuation accentuation__sale accentuation__sale--small",
-            "text": "-6%"
+            "text": "-38%"
           }
         },
         "isAvailable": true
       }
     },
     {
-      "productSKU": "358910d188939c",
+      "productSKU": "34809690de1a61",
       "productlist-item": {
         "wishlistHeartParameters": [
           {
@@ -647,53 +637,100 @@
         "customClasses": "productlist-item--overview",
         "link": {
           "type": "Link",
-          "uri": "https://www.sportscheck.com/adidas/adidas-grand-court-se-cloudfoam-sneaker-herren-p358910e19f1dc6/color-ftwr-white-collegiate-green-orbit-grey/",
-          "title": "adidas Grand Court SE Cloudfoam Sneaker Herren ftwr white-core black-orbit grey"
+          "uri": "https://www.sportscheck.com/jack-wolfskin/jack-wolfskin-travel-hut-p34809690de1a61/color-nature/",
+          "title": "Jack Wolfskin Travel Hut nature"
         },
         "picture": {
-          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010011711071?$product_tile$",
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010011711072?$product_tile$",
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010011553935?$product_tile$",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010011553882?$product_tile$",
           "srcset": [
             {
               "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010011711072?$product_tile$&fmt=auto"
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010011553882?$product_tile$&fmt=auto"
               }
             }
           ]
         },
         "rating": {
-          "average": "3.456",
-          "count": "188"
+          "average": "0",
+          "count": "0"
         },
         "additional-sizes": false,
-        "brand": "adidas",
-        "name": "Grand Court SE Cloudfoam",
-        "category": "Sneaker - Herren",
+        "brand": "Jack Wolfskin",
+        "name": "Travel",
+        "category": "Hut",
+        "price": {
+          "price": {
+            "classes": "price",
+            "text": "34,95",
+            "currency": "€"
+          }
+        },
+        "isAvailable": true
+      }
+    },
+    {
+      "productSKU": "2958821693da7f",
+      "productlist-item": {
+        "wishlistHeartParameters": [
+          {
+            "name": "ProductSKU"
+          },
+          {
+            "name": "WishlistItem"
+          }
+        ],
+        "sponsoredInformation": "gesponsert",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "type": "Link",
+          "uri": "https://www.sportscheck.com/under-armour/under-armour-heatgear-tech-funktionsshirt-herren-p295882560fb6f7/color-black-black/",
+          "title": "Under Armour Heatgear Tech Funktionsshirt Herren black-graphite"
+        },
+        "picture": {
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D100001251411248?$product_tile$",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411247?$product_tile$",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411247?$product_tile$&fmt=auto"
+              }
+            }
+          ]
+        },
+        "rating": {
+          "average": "0",
+          "count": "0"
+        },
+        "additional-sizes": false,
+        "brand": "Under Armour",
+        "name": "Heatgear Tech",
+        "category": "Funktionsshirt - Herren",
         "price--crossed": {
           "price": {
             "classes": "price price--crossed",
-            "text": "74,95",
+            "text": "27,95",
             "currency": "€"
           }
         },
         "price--reduced": {
           "price": {
             "classes": "price price--reduced",
-            "text": "59,95",
+            "text": "20,95",
             "currency": "€"
           }
         },
         "price--savings": {
           "accentuation": {
             "classes": "accentuation accentuation__sale accentuation__sale--small",
-            "text": "-20%"
+            "text": "-25%"
           }
         },
         "isAvailable": true
       }
     },
     {
-      "productSKU": "4416911852a66f",
+      "productSKU": "3778083be9c91c",
       "productlist-item": {
         "wishlistHeartParameters": [
           {
@@ -707,126 +744,83 @@
         "customClasses": "productlist-item--overview",
         "link": {
           "type": "Link",
-          "uri": "https://www.sportscheck.com/adidas/adidas-run-60s-sneaker-herren-p4416911852a66f/color-core-black-ftwr-white-core-black/",
-          "title": "adidas Run 60s Sneaker Herren core black-ftwr white-core black"
+          "uri": "https://www.sportscheck.com/vaude/vaude-mens-moab-rain-pants-trekkinghose-herren-p3778083be9c91c/color-black/",
+          "title": "VAUDE Men's Moab Rain Pants Trekkinghose Herren black"
         },
         "picture": {
-          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010012255817?$product_tile$",
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012255704?$product_tile$",
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010013419735?$product_tile$",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012674710?$product_tile$",
           "srcset": [
             {
               "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012255704?$product_tile$&fmt=auto"
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012674710?$product_tile$&fmt=auto"
               }
             }
           ]
         },
         "rating": {
-          "average": "2.456",
-          "count": "9"
-        },
-        "additional-sizes": false,
-        "brand": "adidas",
-        "name": "Run 60s",
-        "category": "Sneaker - Herren",
-        "price": {
-          "price": {
-            "classes": "price",
-            "text": "54,95",
-            "currency": "€"
-          }
-        },
-        "isAvailable": true
-      }
-    },
-    {
-      "productSKU": "49223310d17daa",
-      "productlist-item": {
-        "wishlistHeartParameters": [
-          {
-            "name": "ProductSKU"
-          },
-          {
-            "name": "WishlistItem"
-          }
-        ],
-        "sponsoredInformation": "gesponsert",
-        "customClasses": "productlist-item--overview",
-        "link": {
-          "type": "Link",
-          "uri": "https://www.sportscheck.com/adidas/adidas-lite-racer-cln-20-sneaker-herren-p49223310d17daa/color-core-black-carbon-solar-red/",
-          "title": "adidas Lite Racer CLN 2.0 Sneaker Herren core black-carbon-solar red"
-        },
-        "picture": {
-          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D100001251413933?$product_tile$",
-          "src": "https://amp.sportscheck.com/i/sportscheck/D100001251413932?$product_tile$",
-          "srcset": [
-            {
-              "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D100001251413932?$product_tile$&fmt=auto"
-              }
-            }
-          ]
-        },
-        "rating": {
-          "average": "2.456",
-          "count": "9"
-        },
-        "additional-sizes": false,
-        "brand": "adidas",
-        "name": "Lite Racer CLN 2.0",
-        "category": "Sneaker - Herren",
-        "price": {
-          "price": {
-            "classes": "price",
-            "text": "59,95",
-            "currency": "€"
-          }
-        },
-        "isAvailable": true
-      }
-    },
-    {
-      "productSKU": "475587a0e3496f",
-      "productlist-item": {
-        "wishlistHeartParameters": [
-          {
-            "name": "ProductSKU"
-          },
-          {
-            "name": "WishlistItem"
-          }
-        ],
-        "sponsoredInformation": "gesponsert",
-        "customClasses": "productlist-item--overview",
-        "link": {
-          "type": "Link",
-          "uri": "https://www.sportscheck.com/vaude/vaude-mens-ubn-redmont-20-rc-sneaker-herren-p475587a0e3496f/color-steelblue/",
-          "title": "VAUDE Men's UBN Redmont 2.0 RC Sneaker Herren steelblue"
-        },
-        "picture": {
-          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010013421392?$product_tile$",
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013421391?$product_tile$",
-          "srcset": [
-            {
-              "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013421391?$product_tile$&fmt=auto"
-              }
-            }
-          ]
-        },
-        "rating": {
-          "average": "2.456",
-          "count": "9"
+          "average": "0",
+          "count": "0"
         },
         "additional-sizes": false,
         "brand": "VAUDE",
-        "name": "Men's UBN Redmont 2.0 RC",
-        "category": "Sneaker - Herren",
+        "name": "Men's Moab Rain Pants",
+        "category": "Trekkinghose - Herren",
         "price": {
           "price": {
             "classes": "price",
-            "text": "120,00",
+            "text": "110,00",
+            "currency": "€"
+          }
+        },
+        "isAvailable": true
+      }
+    },
+    {
+      "productSKU": "3559807225210b",
+      "productlist-item": {
+        "wishlistHeartParameters": [
+          {
+            "name": "ProductSKU"
+          },
+          {
+            "name": "WishlistItem"
+          }
+        ],
+        "sponsoredInformation": "gesponsert",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "type": "Link",
+          "uri": "https://www.sportscheck.com/soliver/soliver-badeshorts-herren-p355980de42efc5/color-rot/",
+          "title": "S.OLIVER Badeshorts Herren gelb"
+        },
+        "picture": {
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D10000125061593?$product_tile$",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013178043?$product_tile$",
+          "srcset": [
+            {
+              "source": {
+                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013178043?$product_tile$&fmt=auto"
+              }
+            }
+          ]
+        },
+        "rating": {
+          "average": "0",
+          "count": "0"
+        },
+        "additional-sizes": false,
+        "brand": "S.OLIVER",
+        "name": "",
+        "category": "Badeshorts - Herren",
+        "price": {
+          "price": {
+            "starting-at": {
+              "text": "ab",
+              "reduced": false
+            },
+            "classes": "price",
+            "text": "32,99",
             "currency": "€"
           }
         },
