@@ -1,661 +1,1355 @@
 {
   "products": [
     {
-      "productSKU": "441406001",
-      "productlistItem": {
-        "wishlistHeart": {
-          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
-          "wishlistHeartParameters": [
-            { "name": "ProductSKU", "value": "441406" },
-            { "name": "WishlistItem", "value": "441406295f1bb3" },
-            {
-              "name": "SelectedVariationAttributes",
-              "value": "Color::black-black-white"
-            },
-            { "name": "VariationProductSKU", "value": "441406001" }
-          ]
-        },
-        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::441406",
-        "customClasses": "",
+      "productSKU": "111195-F034",
+      "productlist-item": {
+        "customClasses": "productlist-item--overview",
         "link": {
-          "title": "Nike Rucksack Hayward 2.0 Daypack black-black-white",
-          "href": "https://www.sportscheck.com/nike/nike-hayward-20-daypack-p441406295f1bb3/color-black-black-white/"
+          "title": "Line Sir Francis Bacon All-Mountain Ski",
+          "href": "link.pages-epd"
         },
         "picture": {
-          "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411903?$productimage_square$&fmt=auto&w=236",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D100001001835325?$product_tile$",
           "srcset": [
             {
               "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411903?$productimage_square$&fmt=auto&w=236"
+                "type": "image/",
+                "src": "https://amp.sportscheck.com/i/sportscheck/D100001001835325?$product_tile$&fmt=auto"
               }
             }
           ]
         },
-        "additionalSizes": false,
-        "brand": "Nike",
-        "name": "Rucksack Hayward 2.0",
-        "category": "Daypack",
-        "priceCrossed": {
+        "colorTilesForm": {
+          "action": "/mock/color-switch-pues",
+          "method": "GET",
+          "parameter": [
+            {
+              "name": "ProductSKU",
+              "value": ""
+            }
+          ]
+        },
+        "variantattributes": {
+          "text": "Weitere Optionen"
+        },
+        "brand": "Line",
+        "name": "Sir Francis Bacon",
+        "productlist-item-rating": {
+          "uniqueSVGId": "asuwadkiasdfe"
+        },
+        "rating": {
+          "average": 4.4593,
+          "count": 8434
+        },
+        "category": "All-Mountain Ski All-Mountain Ski All-Mountain Ski",
+        "price-information": "4,76 € / 100g",
+        "price--crossed": {
           "price": {
             "classes": "price price--crossed",
-            "text": "39,95",
-            "currency": "€"
+            "text": "1.280,00",
+            "currency": "CHF"
           }
         },
-        "priceReduced": {
+        "price--reduced": {
           "price": {
+            "starting-at": {
+              "text": "ab",
+              "isreduced": true
+            },
             "classes": "price price--reduced",
-            "text": "31,95",
+            "text": "869,00",
+            "currency": "CHF"
+          }
+        },
+        "price--savings": {
+          "accentuation": {
+            "classes": "accentuation accentuation__sale accentuation__sale--small",
+            "text": "-35%"
+          },
+          "icon": {
+            "name": "umwelt-nachhaltigkeit-gruen",
+            "classes": "icon--small icon--no-stroke",
+            "canvas": "64 64"
+          }
+        }
+      }
+    },
+    {
+      "productSKU": "269016-F031",
+      "productlist-item": {
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "Spalding NBA SILVER OUTDOOR Basketball orange",
+          "href": "link.pages-epd"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D100001001912238?$product_tile$",
+          "srcset": [
+            {
+              "source": {
+                "type": "image/webp",
+                "src": "https://amp.sportscheck.com/i/sportscheck/D100001001912238?$product_tile$&fmt=webp"
+              }
+            }
+          ]
+        },
+        "variantAttributes": {
+          "link": "link.pages-epd-standard",
+          "value": "2",
+          "text": "Optionen"
+        },
+        "brand": "Spalding",
+        "name": "NBA SILVER OUTDOOR",
+        "productlist-item-rating": {
+          "uniqueSVGId": "asuwadkiasdfe"
+        },
+        "rating": {
+          "average": 4.745,
+          "count": 43
+        },
+        "category": "Basketball",
+        "price--crossed": {
+          "price": {
+            "classes": "price price--crossed",
+            "text": "24,95",
             "currency": "€"
           }
         },
-        "priceSavings": {
+        "price--reduced": {
+          "price": {
+            "starting-at": {
+              "text": "ab",
+              "isreduced": true
+            },
+            "classes": "price price--reduced",
+            "text": "19,95",
+            "currency": "€"
+          }
+        },
+        "price--savings": {
           "accentuation": {
             "classes": "accentuation accentuation__sale accentuation__sale--small",
             "text": "-20%"
           }
+        },
+        "sustainability": {
+          "accentuation": {
+            "classes": "accentuation accentuation--sustainability accentuation--small",
+            "icon": {
+              "name": "umwelt-nachhaltigkeit-gruen",
+              "classes": "icon--small icon--no-stroke icon--centered",
+              "canvas": "64 64"
+            }
+          }
         }
       }
     },
     {
-      "productSKU": "497108001",
-      "productlistItem": {
-        "wishlistHeart": {
-          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
-          "wishlistHeartParameters": [
-            { "name": "ProductSKU", "value": "497108" },
-            { "name": "WishlistItem", "value": "497108b778ab60" },
-            {
-              "name": "SelectedVariationAttributes",
-              "value": "Color::iron grey-iron grey-iron grey"
-            },
-            { "name": "VariationProductSKU", "value": "497108001" }
-          ]
-        },
-        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497108",
-        "customClasses": "",
+      "productSKU": "254855-F333",
+      "productlist-item": {
+        "customClasses": "productlist-item--overview",
         "link": {
-          "title": "Nike Rucksack NSW Heritage Eugene Daypack iron grey-iron grey-iron grey",
-          "href": "https://www.sportscheck.com/nike/nike-nsw-heritage-eugene-daypack-p497108b778ab60/color-iron-grey-iron-grey-iron-grey/"
+          "title": "Powerbar Aufbaunahrung",
+          "href": "link.pages-epd"
         },
         "picture": {
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013116614?$productimage_square$&fmt=auto&w=236",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D100001001817695?$product_tile$",
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010011109557?$product_tile$",
           "srcset": [
             {
               "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013116614?$productimage_square$&fmt=auto&w=236"
+                "type": "image/",
+                "src": "https://amp.sportscheck.com/i/sportscheck/D100001001817695?$product_tile$&fmt=auto"
               }
             }
           ]
         },
-        "additionalSizes": false,
-        "brand": "Nike",
-        "name": "Rucksack NSW Heritage Eugene",
-        "category": "Daypack",
+        "colorTilesForm": {
+          "action": "/mock/color-switch-pues",
+          "method": "GET",
+          "parameter": [
+            {
+              "name": "ProductSKU",
+              "value": ""
+            }
+          ]
+        },
+        "color-tiles": [
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D100001001617488?$stoffmuster$"
+            },
+            "product__sku": "testtesttesttesttes_foo",
+            "active": true
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100211?$stoffmuster$"
+            },
+            "product__sku": "jDgKaxDwJ98AAAFGn9JI_vRh"
+          }
+        ],
+        "brand": "Powerbar",
+        "category": "Aufbaunahrung",
+        "productlist-item-rating": {
+          "uniqueSVGId": "jjsadkiasdfelouiz"
+        },
+        "rating": {
+          "average": 3.4543,
+          "count": 4
+        },
+        "price-information": false,
         "price": {
-          "price": { "classes": "price", "text": "39,95", "currency": "€" }
+          "price": {
+            "starting-at": {
+              "text": "ab",
+              "isreduced": false
+            },
+            "classes": "price",
+            "text": "80,95",
+            "currency": "€"
+          }
+        },
+        "price--savings": {
+          "accentuation": {
+            "classes": "accentuation--small accentuation--sustainability",
+            "icon": {
+              "name": "umwelt-nachhaltigkeit-gruen",
+              "classes": "icon--small icon--no-stroke icon--centered",
+              "canvas": "64 64"
+            }
+          }
         }
       }
     },
     {
-      "productSKU": "497071006",
-      "productlistItem": {
-        "wishlistHeart": {
-          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
-          "wishlistHeartParameters": [
-            { "name": "ProductSKU", "value": "497071" },
-            { "name": "WishlistItem", "value": "497071b03edda9" },
-            {
-              "name": "SelectedVariationAttributes",
-              "value": "Color::dk grey heather-matte silver-white"
-            },
-            { "name": "VariationProductSKU", "value": "497071006" }
-          ]
-        },
-        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497071",
-        "customClasses": "",
+      "productSKU": "123456-F040",
+      "productlist-item": {
+        "customClasses": "productlist-item--overview",
         "link": {
-          "title": "Nike NSW Club Sweathose Herren dk grey heather-matte silver-white",
-          "href": "https://www.sportscheck.com/nike/nike-nsw-club-sweathose-herren-p497071b03edda9/color-dk-grey-heather-matte-silver-white/"
+          "title": "adidas CH Rocket Laufschuhe - Herren",
+          "href": "link.pages-epd"
         },
         "picture": {
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013362025?$productimage_square$&fmt=auto&w=236",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D100001001884191?$product_tile$",
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010011448111?$product_tile$",
           "srcset": [
             {
               "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013362025?$productimage_square$&fmt=auto&w=236"
+                "type": "image/",
+                "src": "https://amp.sportscheck.com/i/sportscheck/D100001001884191?$product_tile$&fmt=auto"
               }
             }
           ]
         },
-        "additionalSizes": true,
-        "brand": "Nike",
-        "name": "NSW Club",
-        "category": "Sweathose - Herren",
-        "priceCrossed": {
+        "colorTilesForm": {
+          "action": "/mock/color-switch-pues",
+          "method": "GET",
+          "parameter": [
+            {
+              "name": "ProductSKU",
+              "value": ""
+            }
+          ]
+        },
+        "color-tiles": [
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D100001001617488?$stoffmuster$"
+            },
+            "product__sku": "testtesttesttesttes_foo",
+            "active": true
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100211?$stoffmuster$"
+            },
+            "product__sku": "jDgKaxDwJ98AAAFGn9JI_vRh"
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100214?$stoffmuster$"
+            }
+          }
+        ],
+        "more-colors": {
+          "link": "link.pages-epd-standard",
+          "text": "Mehr"
+        },
+        "brand": "adidas",
+        "name": "CH Rocket",
+        "productlist-item-rating": {
+          "uniqueSVGId": "jjsadkiasdfecvds"
+        },
+        "rating": {
+          "average": 2.34,
+          "count": 49
+        },
+        "category": "Laufschuhe - Herren",
+        "price--crossed": {
           "price": {
             "classes": "price price--crossed",
-            "text": "54,95",
+            "text": "159,95",
             "currency": "€"
           }
         },
-        "priceReduced": {
+        "price--reduced": {
           "price": {
             "classes": "price price--reduced",
-            "text": "41,95",
+            "text": "139,95",
             "currency": "€"
           }
         },
-        "priceSavings": {
+        "price--savings": {
           "accentuation": {
             "classes": "accentuation accentuation__sale accentuation__sale--small",
-            "text": "-24%"
+            "text": "-55%"
           }
         }
       }
     },
     {
-      "productSKU": "528988101",
-      "productlistItem": {
-        "wishlistHeart": {
-          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
-          "wishlistHeartParameters": [
-            { "name": "ProductSKU", "value": "528988" },
-            { "name": "WishlistItem", "value": "528988295f1bb3" },
-            {
-              "name": "SelectedVariationAttributes",
-              "value": "Color::black-black-white"
-            },
-            { "name": "VariationProductSKU", "value": "528988001" }
-          ]
-        },
-        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::528988",
-        "customClasses": "",
+      "productSKU": "265827-F052",
+      "productlist-item": {
+        "customClasses": "productlist-item--overview",
         "link": {
-          "title": "Nike NSW Spe Sherpa GX Fleecehoodie Herren black-black-white",
-          "href": "https://www.sportscheck.com/nike/nike-nsw-spe-sherpa-gx-fleecehoodie-herren-p528988295f1bb3/color-black-black-white/"
+          "title": "Line Sir Francis Bacon All-Mountain Ski",
+          "href": "link.pages-epd"
         },
         "picture": {
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013448982?$productimage_square$&fmt=auto&w=236",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D100001001835325?$product_tile$",
           "srcset": [
             {
               "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013448982?$productimage_square$&fmt=auto&w=236"
+                "type": "image/",
+                "src": "https://amp.sportscheck.com/i/sportscheck/D100001001835325?$product_tile$&fmt=auto"
               }
             }
           ]
         },
-        "additionalSizes": true,
-        "brand": "Nike",
-        "name": "NSW Spe Sherpa GX",
-        "category": "Fleecehoodie - Herren",
-        "price": {
-          "price": { "classes": "price", "text": "89,95", "currency": "€" },
-          "priceSavings": {
-            "accentuation": {
-              "classes": "accentuation accentuation__sale accentuation__sale--small",
-              "text": "Neu"
+        "colorTilesForm": {
+          "action": "/mock/color-switch-pues",
+          "method": "GET",
+          "parameter": [
+            {
+              "name": "ProductSKU",
+              "value": ""
+            }
+          ]
+        },
+        "color-tiles": [
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D100001001617488?$stoffmuster$"
+            },
+            "product__sku": "testtesttesttesttes_foo",
+            "active": true
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100211?$stoffmuster$"
+            },
+            "product__sku": "jDgKaxDwJ98AAAFGn9JI_vRh"
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100214?$stoffmuster$"
             }
           }
-        }
-      }
-    },
-    {
-      "productSKU": "497059001",
-      "productlistItem": {
-        "wishlistHeart": {
-          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
-          "wishlistHeartParameters": [
-            { "name": "ProductSKU", "value": "497059" },
-            { "name": "WishlistItem", "value": "497059d94cfefd" },
-            {
-              "name": "SelectedVariationAttributes",
-              "value": "Color::black-heather-black"
-            },
-            { "name": "VariationProductSKU", "value": "497059001" }
-          ]
+        ],
+        "brand": "Line",
+        "name": "Sir Francis Bacon",
+        "productlist-item-rating": {
+          "uniqueSVGId": "jjsadkiasdfey"
         },
-        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497059",
-        "customClasses": "",
-        "link": {
-          "title": "Nike NSW T-Shirt Herren black-heather-black",
-          "href": "https://www.sportscheck.com/nike/nike-nsw-t-shirt-herren-p497059d94cfefd/color-black-heather-black/"
+        "rating": {
+          "average": 4.4,
+          "count": 373
         },
-        "picture": {
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013193509?$productimage_square$&fmt=auto&w=236",
-          "srcset": [
-            {
-              "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013193509?$productimage_square$&fmt=auto&w=236"
-              }
-            }
-          ]
-        },
-        "additionalSizes": true,
-        "brand": "Nike",
-        "name": "NSW",
-        "category": "T-Shirt - Herren",
-        "price": {
-          "price": { "classes": "price", "text": "24,95", "currency": "€" }
-        }
-      }
-    },
-    {
-      "productSKU": "446248002",
-      "productlistItem": {
-        "wishlistHeart": {
-          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
-          "wishlistHeartParameters": [
-            { "name": "ProductSKU", "value": "446248" },
-            { "name": "WishlistItem", "value": "44624834e9423b" },
-            {
-              "name": "SelectedVariationAttributes",
-              "value": "Color::cargo khaki-cargo khaki-iridescent"
-            },
-            { "name": "VariationProductSKU", "value": "446248002" }
-          ]
-        },
-        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::446248",
-        "customClasses": "",
-        "link": {
-          "title": "Nike Rucksack Tech Daypack cargo khaki-cargo khaki-iridescent",
-          "href": "https://www.sportscheck.com/nike/nike-tech-daypack-p44624834e9423b/color-cargo-khaki-cargo-khaki-iridescent/"
-        },
-        "picture": {
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012341299?$productimage_square$&fmt=auto&w=236",
-          "srcset": [
-            {
-              "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012341299?$productimage_square$&fmt=auto&w=236"
-              }
-            }
-          ]
-        },
-        "additionalSizes": false,
-        "brand": "Nike",
-        "name": "Rucksack Tech",
-        "category": "Daypack",
-        "price": {
-          "price": { "classes": "price", "text": "27,95", "currency": "€" }
-        }
-      }
-    },
-    {
-      "productSKU": "497073002",
-      "productlistItem": {
-        "wishlistHeart": {
-          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
-          "wishlistHeartParameters": [
-            { "name": "ProductSKU", "value": "497073" },
-            { "name": "WishlistItem", "value": "49707377361882" },
-            {
-              "name": "SelectedVariationAttributes",
-              "value": "Color::dark marina blue-white"
-            },
-            { "name": "VariationProductSKU", "value": "497073002" }
-          ]
-        },
-        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497073",
-        "customClasses": "",
-        "link": {
-          "title": "Nike NSW Club T-Shirt Herren dark marina blue-white",
-          "href": "https://www.sportscheck.com/nike/nike-nsw-club-t-shirt-herren-p49707377361882/color-dark-marina-blue-white/"
-        },
-        "picture": {
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013188259?$productimage_square$&fmt=auto&w=236",
-          "srcset": [
-            {
-              "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013188259?$productimage_square$&fmt=auto&w=236"
-              }
-            }
-          ]
-        },
-        "additionalSizes": true,
-        "brand": "Nike",
-        "name": "NSW Club",
-        "category": "T-Shirt - Herren",
-        "price": {
-          "price": { "classes": "price", "text": "19,95", "currency": "€" }
-        }
-      }
-    },
-    {
-      "productSKU": "497108102",
-      "productlistItem": {
-        "wishlistHeart": {
-          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
-          "wishlistHeartParameters": [
-            { "name": "ProductSKU", "value": "497108" },
-            { "name": "WishlistItem", "value": "497108ae9a3f1e" },
-            {
-              "name": "SelectedVariationAttributes",
-              "value": "Color::mystic navy-mystic navy-midnight navy"
-            },
-            { "name": "VariationProductSKU", "value": "497108002" }
-          ]
-        },
-        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497108",
-        "customClasses": "",
-        "link": {
-          "title": "Nike Rucksack NSW Heritage Eugene Daypack mystic navy-mystic navy-midnight navy",
-          "href": "https://www.sportscheck.com/nike/nike-nsw-heritage-eugene-daypack-p497108ae9a3f1e/color-mystic-navy-mystic-navy-midnight-navy/"
-        },
-        "picture": {
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013116613?$productimage_square$&fmt=auto&w=236",
-          "srcset": [
-            {
-              "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013116613?$productimage_square$&fmt=auto&w=236"
-              }
-            }
-          ]
-        },
-        "additionalSizes": false,
-        "brand": "Nike",
-        "name": "Rucksack NSW Heritage Eugene",
-        "category": "Daypack",
-        "price": {
-          "price": { "classes": "price", "text": "39,95", "currency": "€" }
-        }
-      }
-    },
-    {
-      "productSKU": "497062001",
-      "productlistItem": {
-        "wishlistHeart": {
-          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
-          "wishlistHeartParameters": [
-            { "name": "ProductSKU", "value": "497062" },
-            { "name": "WishlistItem", "value": "4970623be9c91c" },
-            {
-              "name": "SelectedVariationAttributes",
-              "value": "Color::black"
-            },
-            { "name": "VariationProductSKU", "value": "497062001" }
-          ]
-        },
-        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497062",
-        "customClasses": "",
-        "link": {
-          "title": "Nike NSW League T-Shirt Herren black",
-          "href": "https://www.sportscheck.com/nike/nike-nsw-league-t-shirt-herren-p4970623be9c91c/color-black/"
-        },
-        "picture": {
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013381312?$productimage_square$&fmt=auto&w=236",
-          "srcset": [
-            {
-              "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013381312?$productimage_square$&fmt=auto&w=236"
-              }
-            }
-          ]
-        },
-        "additionalSizes": true,
-        "brand": "Nike",
-        "name": "NSW League",
-        "category": "T-Shirt - Herren",
-        "price": {
-          "price": { "classes": "price", "text": "24,95", "currency": "€" },
-          "priceSavings": {
-            "accentuation": {
-              "classes": "accentuation accentuation__sale accentuation__sale--small",
-              "text": "Neu"
-            }
-          }
-        }
-      }
-    },
-    {
-      "productSKU": "506356001",
-      "productlistItem": {
-        "wishlistHeart": {
-          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
-          "wishlistHeartParameters": [
-            { "name": "ProductSKU", "value": "506356" },
-            { "name": "WishlistItem", "value": "5063566afea2c5" },
-            {
-              "name": "SelectedVariationAttributes",
-              "value": "Color::rough green-sequoia-sail"
-            },
-            { "name": "VariationProductSKU", "value": "506356001" }
-          ]
-        },
-        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::506356",
-        "customClasses": "",
-        "link": {
-          "title": "Nike NSW Steppmantel Herren rough green-sequoia-sail",
-          "href": "https://www.sportscheck.com/nike/nike-nsw-steppmantel-herren-p5063566afea2c5/color-rough-green-sequoia-sail/"
-        },
-        "picture": {
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012976683?$productimage_square$&fmt=auto&w=236",
-          "srcset": [
-            {
-              "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012976683?$productimage_square$&fmt=auto&w=236"
-              }
-            }
-          ]
-        },
-        "additionalSizes": true,
-        "brand": "Nike",
-        "name": "NSW",
-        "category": "Steppmantel - Herren",
-        "priceCrossed": {
+        "category": "All-Mountain Ski All-Mountain Ski All-Mountain Ski",
+        "price--crossed": {
           "price": {
             "classes": "price price--crossed",
-            "text": "199,95",
-            "currency": "€"
+            "text": "1.280,00",
+            "currency": "CHF"
           }
         },
-        "priceReduced": {
+        "price--reduced": {
           "price": {
+            "starting-at": {
+              "text": "ab",
+              "isreduced": true
+            },
             "classes": "price price--reduced",
-            "text": "119,95",
-            "currency": "€"
+            "text": "869,00",
+            "currency": "CHF"
           }
         },
-        "priceSavings": {
+        "price--savings": {
           "accentuation": {
             "classes": "accentuation accentuation__sale accentuation__sale--small",
-            "text": "-40%"
+            "text": "-57%"
           }
         }
       }
     },
     {
-      "productSKU": "497110001",
-      "productlistItem": {
-        "wishlistHeart": {
-          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
-          "wishlistHeartParameters": [
-            { "name": "ProductSKU", "value": "497110" },
-            { "name": "WishlistItem", "value": "497110f0a3be90" },
-            {
-              "name": "SelectedVariationAttributes",
-              "value": "Color::white"
-            },
-            { "name": "VariationProductSKU", "value": "497110001" }
-          ]
-        },
-        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497110",
-        "customClasses": "",
+      "productSKU": "265827-F393",
+      "productlist-item": {
+        "customClasses": "productlist-item--overview",
         "link": {
-          "title": "Nike Everyday Essential Boxer Herren white",
-          "href": "https://www.sportscheck.com/nike/nike-everyday-essential-boxer-herren-p497110f0a3be90/color-white/"
+          "title": "Powerbar Aufbaunahrung",
+          "href": "link.pages-epd"
         },
         "picture": {
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013354262?$productimage_square$&fmt=auto&w=236",
+          "src": "https://amp.sportscheck.com/i/sportscheck/D100001001817695?$product_tile$",
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010011109557?$product_tile$",
           "srcset": [
             {
               "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013354262?$productimage_square$&fmt=auto&w=236"
+                "type": "image/",
+                "src": "https://amp.sportscheck.com/i/sportscheck/D100001001817695?$product_tile$&fmt=auto"
               }
             }
           ]
         },
-        "additionalSizes": true,
-        "brand": "Nike",
-        "name": "Everyday Essential",
-        "category": "Boxer - Herren",
-        "price": {
-          "price": { "classes": "price", "text": "31,95", "currency": "€" }
-        }
-      }
-    },
-    {
-      "productSKU": "497080006",
-      "productlistItem": {
-        "wishlistHeart": {
-          "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
-          "wishlistHeartParameters": [
-            { "name": "ProductSKU", "value": "497080" },
-            { "name": "WishlistItem", "value": "497080f0a3be90" },
+        "colorTilesForm": {
+          "action": "/mock/color-switch-pues",
+          "method": "GET",
+          "parameter": [
             {
-              "name": "SelectedVariationAttributes",
-              "value": "Color::white"
+              "name": "ProductSKU",
+              "value": ""
+            }
+          ]
+        },
+        "color-tiles": [
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D100001001617488?$stoffmuster$"
             },
-            { "name": "VariationProductSKU", "value": "497080006" }
-          ]
+            "product__sku": "testtesttesttesttes_foo",
+            "active": true
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100211?$stoffmuster$"
+            },
+            "product__sku": "jDgKaxDwJ98AAAFGn9JI_vRh"
+          }
+        ],
+        "brand": "Powerbar",
+        "category": "Aufbaunahrung",
+        "productlist-item-rating": {
+          "uniqueSVGId": "jjsadkiasdfeq"
         },
-        "trackingId": "trc_reco::productdetailpage::das-passt-dazu::497080",
-        "customClasses": "",
-        "link": {
-          "title": "Nike NSW Air 1 T-Shirt Herren white",
-          "href": "https://www.sportscheck.com/nike/nike-nsw-air-1-t-shirt-herren-p497080f0a3be90/color-white/"
+        "rating": {
+          "average": 5,
+          "count": 4
         },
-        "picture": {
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013222932?$productimage_square$&fmt=auto&w=236",
-          "srcset": [
-            {
-              "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010013222932?$productimage_square$&fmt=auto&w=236"
-              }
-            }
-          ]
-        },
-        "additionalSizes": true,
-        "brand": "Nike",
-        "name": "NSW Air 1",
-        "category": "T-Shirt - Herren",
+        "price-information": "4,76 € / 100g",
         "price": {
-          "price": { "classes": "price", "text": "29,95", "currency": "€" }
-        }
-      }
-    },
-    {
-        "productSKU": "441406101",
-        "productlistItem": {
-          "wishlistHeart": {
-            "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
-            "wishlistHeartParameters": [
-              { "name": "ProductSKU", "value": "441406" },
-              { "name": "WishlistItem", "value": "441406295f1bb3" },
-              {
-                "name": "SelectedVariationAttributes",
-                "value": "Color::black-black-white"
-              },
-              { "name": "VariationProductSKU", "value": "441406001" }
-            ]
-          },
-          "trackingId": "trc_reco::productdetailpage::das-passt-dazu::441406",
-          "customClasses": "",
-          "link": {
-            "title": "Nike Rucksack Hayward 2.0 Daypack black-black-white",
-            "href": "https://www.sportscheck.com/nike/nike-hayward-20-daypack-p441406295f1bb3/color-black-black-white/"
-          },
-          "picture": {
-            "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411903?$productimage_square$&fmt=auto&w=236",
-            "srcset": [
-              {
-                "source": {
-                  "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411903?$productimage_square$&fmt=auto&w=236"
-                }
-              }
-            ]
-          },
-          "additional-sizes": false,
-          "brand": "Nike",
-          "name": "Rucksack Hayward 2.0",
-          "category": "Daypack",
-          "price--crossed": {
-            "price": {
-              "classes": "price price--crossed",
-              "text": "39,95",
-              "currency": "€"
-            }
-          },
-          "price--reduced": {
-            "price": {
-              "classes": "price price--reduced",
-              "text": "31,95",
-              "currency": "€"
-            }
+          "price": {
+            "starting-at": {
+              "text": "ab",
+              "isreduced": false
+            },
+            "classes": "price",
+            "text": "80,95",
+            "currency": "€"
           },
           "price--savings": {
             "accentuation": {
-              "classes": "accentuation accentuation__sale accentuation__sale--small",
-              "text": "-20%"
-            }
-          }
-        }
-      },
-      {
-        "productSKU": "441406201",
-        "productlistItem": {
-          "wishlistHeart": {
-            "wishlistHeartAction": "https://www.sportscheck.com/INTERSHOP/web/WFS/SportScheck-DE-Site/de_DE/-/EUR/ViewWishlist-Dispatch",
-            "wishlistHeartParameters": [
-              { "name": "ProductSKU", "value": "441406" },
-              { "name": "WishlistItem", "value": "441406295f1bb3" },
-              {
-                "name": "SelectedVariationAttributes",
-                "value": "Color::black-black-white"
-              },
-              { "name": "VariationProductSKU", "value": "441406001" }
-            ]
-          },
-          "trackingId": "trc_reco::productdetailpage::das-passt-dazu::441406",
-          "customClasses": "",
-          "link": {
-            "title": "Nike Rucksack Hayward 2.0 Daypack black-black-white",
-            "href": "https://www.sportscheck.com/nike/nike-hayward-20-daypack-p441406295f1bb3/color-black-black-white/"
-          },
-          "picture": {
-            "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411903?$productimage_square$&fmt=auto&w=236",
-            "srcset": [
-              {
-                "source": {
-                  "src": "https://amp.sportscheck.com/i/sportscheck/D100001251411903?$productimage_square$&fmt=auto&w=236"
-                }
-              }
-            ]
-          },
-          "additional-sizes": false,
-          "brand": "Nike",
-          "name": "Rucksack Hayward 2.0",
-          "category": "Daypack",
-          "price--crossed": {
-            "price": {
-              "classes": "price price--crossed",
-              "text": "39,95",
-              "currency": "€"
-            }
-          },
-          "price--reduced": {
-            "price": {
-              "classes": "price price--reduced",
-              "text": "31,95",
-              "currency": "€"
-            }
-          },
-          "price--savings": {
-            "accentuation": {
-              "classes": "accentuation accentuation__sale accentuation__sale--small",
-              "text": "-20%"
+              "classes": "accentuation",
+              "text": "Neu"
+            },
+            "icon": {
+              "name": "umwelt-nachhaltigkeit-gruen",
+              "classes": "icon--small icon--no-stroke",
+              "canvas": "64 64"
             }
           }
         }
       }
+    },
+    {
+      "productSKU": "254855-F049",
+      "productlist-item": {
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas CH Rocket Laufschuhe - Herren",
+          "href": "link.pages-epd"
+        },
+        "picture": {
+          "src": "https://amp.sportscheck.com/i/sportscheck/D100001001884191?$product_tile$",
+          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010011448111?$product_tile$",
+          "srcset": [
+            {
+              "source": {
+                "type": "image/",
+                "src": "https://amp.sportscheck.com/i/sportscheck/D100001001884191?$product_tile$&fmt=auto"
+              }
+            }
+          ]
+        },
+        "colorTilesForm": {
+          "action": "/mock/color-switch-pues",
+          "method": "GET",
+          "parameter": [
+            {
+              "name": "ProductSKU",
+              "value": ""
+            }
+          ]
+        },
+        "color-tiles": [
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D100001001617488?$stoffmuster$"
+            },
+            "product__sku": "testtesttesttesttes_foo",
+            "active": true
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100211?$stoffmuster$"
+            },
+            "product__sku": "jDgKaxDwJ98AAAFGn9JI_vRh"
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100214?$stoffmuster$"
+            }
+          }
+        ],
+        "more-colors": {
+          "link": "link.pages-epd-standard",
+          "text": "Mehr"
+        },
+        "brand": "adidas",
+        "name": "CH Rocket",
+        "productlist-item-rating": {
+          "uniqueSVGId": "jjsadkie"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "category": "Laufschuhe - Herren",
+        "price--crossed": {
+          "price": {
+            "classes": "price price--crossed",
+            "text": "159,95",
+            "currency": "€"
+          }
+        },
+        "price--reduced": {
+          "price": {
+            "classes": "price price--reduced",
+            "text": "139,95",
+            "currency": "€"
+          }
+        },
+        "price--savings": {
+          "accentuation": {
+            "classes": "accentuation accentuation__sale accentuation__sale--small",
+            "text": "-12%"
+          }
+        }
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "Ziener Skihandschuhe Herren",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "Ziener",
+        "category": "Skihandschuhe Herren",
+        "star-rating": true
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "Line Sir Francis Bacon All-Mountain Ski",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "Line",
+        "name": "Sir Francis Bacon",
+        "category": "All-Mountain Ski"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "Powerbar Aufbaunahrung",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "Powerbar",
+        "category": "Aufbaunahrung"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas CH Rocket Laufschuhe - Herren",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "adidas",
+        "name": "CH Rocket",
+        "category": "Laufschuhe - Herren"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "href": "link.pages-epd"
+        },
+        "colorTilesForm": {
+          "action": "/mock/color-switch-pues",
+          "method": "GET",
+          "parameter": [
+            {
+              "name": "ProductSKU",
+              "value": ""
+            }
+          ]
+        },
+        "color-tiles": [
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D100001001617488?$stoffmuster$"
+            },
+            "product__sku": "testtesttesttesttes_foo",
+            "active": true
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100211?$stoffmuster$"
+            },
+            "product__sku": "jDgKaxDwJ98AAAFGn9JI_vRh"
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100214?$stoffmuster$"
+            }
+          }
+        ],
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas CH Rocket Laufschuhe - Herren",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "adidas",
+        "name": "CH Rocket",
+        "category": "Laufschuhe - Herren"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "Mountain Equipment Lhotse Hardshelljacke Herren",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "Mountain Equipment",
+        "name": "Lhotse",
+        "category": "Hardshelljacke Herren"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "Ziener Skihandschuhe Herren",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "Ziener",
+        "category": "Skihandschuhe Herren"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "Line Sir Francis Bacon All-Mountain Ski",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "Line",
+        "name": "Sir Francis Bacon",
+        "category": "All-Mountain Ski"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "Powerbar Aufbaunahrung",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "Powerbar",
+        "category": "Aufbaunahrung"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas CH Rocket Laufschuhe - Herren",
+          "href": "link.pages-epd"
+        },
+        "colorTilesForm": {
+          "action": "/mock/color-switch-pues",
+          "method": "GET",
+          "parameter": [
+            {
+              "name": "ProductSKU",
+              "value": ""
+            }
+          ]
+        },
+        "color-tiles": [
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D100001001617488?$stoffmuster$"
+            },
+            "product__sku": "testtesttesttesttes_foo",
+            "active": true
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100211?$stoffmuster$"
+            },
+            "product__sku": "jDgKaxDwJ98AAAFGn9JI_vRh"
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100214?$stoffmuster$"
+            }
+          }
+        ],
+        "more-colors": {
+          "link": "link.pages-epd-standard",
+          "text": "Mehr"
+        },
+        "brand": "adidas",
+        "name": "CH Rocket",
+        "category": "Laufschuhe - Herren"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "href": "link.pages-epd-standard"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidasAdidasAdidasAdidasAdidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidasAdidasAdidasAdidasAdidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidasAdidasAdidasAdidasAdidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas Supernova Laufshirt - Damen",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "Supernova",
+        "category": "Laufshirt - Damen"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "adidas CH Rocket Laufschuhe - Herren",
+          "text": "#"
+        },
+        "brand": "adidas",
+        "name": "CH Rocket",
+        "category": "Laufschuhe - Herren"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "Mountain Equipment Lhotse Hardshelljacke Herren",
+          "href": "link.pages-epd"
+        },
+        "colorTilesForm": {
+          "action": "/mock/color-switch-pues",
+          "method": "GET",
+          "parameter": [
+            {
+              "name": "ProductSKU",
+              "value": ""
+            }
+          ]
+        },
+        "color-tiles": [
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D100001001617488?$stoffmuster$"
+            },
+            "product__sku": "testtesttesttesttes_foo",
+            "active": true
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100211?$stoffmuster$"
+            },
+            "product__sku": "jDgKaxDwJ98AAAFGn9JI_vRh"
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100214?$stoffmuster$"
+            }
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100215?$stoffmuster$"
+            }
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100217?$stoffmuster$"
+            }
+          }
+        ],
+        "brand": "Mountain Equipment",
+        "name": "Lhotse",
+        "category": "Hardshelljacke Herren"
+      }
+    },
+    {
+      "productlist-item": {
+        "lazyload": "./../../patterns/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues/01-molecules-14-productlist-_30-productlist-item-overview-mock--pues.markup-only.html",
+        "customClasses": "productlist-item--overview productlist-item--lazyload",
+        "link": {
+          "title": "Ziener Skihandschuhe Herren",
+          "href": "link.pages-epd"
+        },
+        "colorTilesForm": {
+          "action": "/mock/color-switch-pues",
+          "method": "GET",
+          "parameter": [
+            {
+              "name": "ProductSKU",
+              "value": ""
+            }
+          ]
+        },
+        "color-tiles": [
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D100001001617488?$stoffmuster$"
+            },
+            "product__sku": "testtesttesttesttes_foo",
+            "active": true
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100211?$stoffmuster$"
+            },
+            "product__sku": "jDgKaxDwJ98AAAFGn9JI_vRh"
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100214?$stoffmuster$"
+            }
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100215?$stoffmuster$"
+            }
+          },
+          {
+            "link": "#",
+            "image": {
+              "src": "https://amp.sportscheck.com/i/sportscheck/D10000100217?$stoffmuster$"
+            }
+          }
+        ],
+        "brand": "Ziener",
+        "category": "Skihandschuhe Herren"
+      }
+    }
   ]
 }
