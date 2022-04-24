@@ -513,56 +513,6 @@
       }
     },
     {
-      "productSKU": "4452727cc8fc90",
-      "productlist-item": {
-        "wishlistHeartParameters": [
-          {
-            "name": "ProductSKU"
-          },
-          {
-            "name": "WishlistItem"
-          }
-        ],
-        "sponsoredInformation": "gesponsert",
-        "customClasses": "productlist-item--overview",
-        "link": {
-          "type": "Link",
-          "uri": "https://www.sportscheck.com/bench/bench-sweathose-herren-p445272f1d9e269/color-grau-meliert/",
-          "title": "Bench Sweathose Herren schwarz"
-        },
-        "picture": {
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012869516?$product_tile$",
-          "srcset": [
-            {
-              "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012869516?$product_tile$&fmt=auto"
-              }
-            }
-          ]
-        },
-        "rating": {
-          "average": "0",
-          "count": "0"
-        },
-        "additional-sizes": false,
-        "brand": "Bench",
-        "name": "",
-        "category": "Sweathose - Herren",
-        "price": {
-          "price": {
-            "starting-at": {
-              "text": "ab",
-              "reduced": false
-            },
-            "classes": "price",
-            "text": "29,99",
-            "currency": "€"
-          }
-        },
-        "isAvailable": true
-      }
-    },
-    {
       "productSKU": "267234eb934ad6",
       "productlist-item": {
         "wishlistHeartParameters": [
@@ -982,53 +932,6 @@
       }
     },
     {
-      "productSKU": "492223964910da",
-      "productlist-item": {
-        "wishlistHeartParameters": [
-          {
-            "name": "ProductSKU"
-          },
-          {
-            "name": "WishlistItem"
-          }
-        ],
-        "sponsoredInformation": "gesponsert",
-        "customClasses": "productlist-item--overview",
-        "link": {
-          "type": "Link",
-          "uri": "https://www.sportscheck.com/adidas/adidas-vl-court-20-sneaker-herren-p492223964910da/color-collegiate-navy-ftwr-white-ftwr-white/",
-          "title": "adidas VL Court 2.0 Sneaker Herren collegiate navy-ftwr white-ftwr white"
-        },
-        "picture": {
-          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D10000125148831?$product_tile$",
-          "src": "https://amp.sportscheck.com/i/sportscheck/D10000125148830?$product_tile$",
-          "srcset": [
-            {
-              "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D10000125148830?$product_tile$&fmt=auto"
-              }
-            }
-          ]
-        },
-        "rating": {
-          "average": "2.456",
-          "count": "9"
-        },
-        "additional-sizes": false,
-        "brand": "adidas",
-        "name": "VL Court 2.0",
-        "category": "Sneaker - Herren",
-        "price": {
-          "price": {
-            "classes": "price",
-            "text": "64,95",
-            "currency": "€"
-          }
-        },
-        "isAvailable": true
-      }
-    },
-    {
       "productSKU": "510071eff9c291",
       "productlist-item": {
         "wishlistHeartParameters": [
@@ -1072,53 +975,6 @@
             },
             "classes": "price",
             "text": "29,99",
-            "currency": "€"
-          }
-        },
-        "isAvailable": true
-      }
-    },
-    {
-      "productSKU": "4922312d65fb69",
-      "productlist-item": {
-        "wishlistHeartParameters": [
-          {
-            "name": "ProductSKU"
-          },
-          {
-            "name": "WishlistItem"
-          }
-        ],
-        "sponsoredInformation": "gesponsert",
-        "customClasses": "productlist-item--overview",
-        "link": {
-          "type": "Link",
-          "uri": "https://www.sportscheck.com/adidas/adidas-grand-court-alph-sneaker-herren-p4922312d65fb69/color-core-black-ftwr-white-iron-metallic/",
-          "title": "adidas Grand Court Alph Sneaker Herren core black-ftwr white-iron metallic"
-        },
-        "picture": {
-          "dataSrcFlip": "https://amp.sportscheck.com/i/sportscheck/D1000010012857770?$product_tile$",
-          "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012857509?$product_tile$",
-          "srcset": [
-            {
-              "source": {
-                "src": "https://amp.sportscheck.com/i/sportscheck/D1000010012857509?$product_tile$&fmt=auto"
-              }
-            }
-          ]
-        },
-        "rating": {
-          "average": "2.456",
-          "count": "9"
-        },
-        "additional-sizes": false,
-        "brand": "adidas",
-        "name": "Grand Court Alph",
-        "category": "Sneaker - Herren",
-        "price": {
-          "price": {
-            "classes": "price",
-            "text": "79,95",
             "currency": "€"
           }
         },
